@@ -39,11 +39,11 @@ function Editor({ socketRef, roomId }) {
                 console.log(code);
             });
 
-            // socketRef.current.on(ACTIONS.CODE_CHANGE, ({ code }) => {
-            //     if (code !== null) {
-            //         editorRef.current.setValue(code);
-            //     }
-            // })
+            socketRef.current.on(ACTIONS.CODE_CHANGE, ({ code }) => {
+                if (code !== null) {
+                    editorRef.current.setValue(code);
+                }
+            })
 
         }
         init();
