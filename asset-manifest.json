@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/realtime-editor2/static/css/main.75c9dae9.chunk.css",
+    "main.js": "/realtime-editor2/static/js/main.d020fc1a.chunk.js",
+    "main.js.map": "/realtime-editor2/static/js/main.d020fc1a.chunk.js.map",
+    "runtime-main.js": "/realtime-editor2/static/js/runtime-main.18c1914d.js",
+    "runtime-main.js.map": "/realtime-editor2/static/js/runtime-main.18c1914d.js.map",
+    "static/css/2.7fa18b2e.chunk.css": "/realtime-editor2/static/css/2.7fa18b2e.chunk.css",
+    "static/js/2.50ba4b5f.chunk.js": "/realtime-editor2/static/js/2.50ba4b5f.chunk.js",
+    "static/js/2.50ba4b5f.chunk.js.map": "/realtime-editor2/static/js/2.50ba4b5f.chunk.js.map",
+    "static/js/3.5f00ed00.chunk.js": "/realtime-editor2/static/js/3.5f00ed00.chunk.js",
+    "static/js/3.5f00ed00.chunk.js.map": "/realtime-editor2/static/js/3.5f00ed00.chunk.js.map",
+    "index.html": "/realtime-editor2/index.html",
+    "static/css/2.7fa18b2e.chunk.css.map": "/realtime-editor2/static/css/2.7fa18b2e.chunk.css.map",
+    "static/css/main.75c9dae9.chunk.css.map": "/realtime-editor2/static/css/main.75c9dae9.chunk.css.map",
+    "static/js/2.50ba4b5f.chunk.js.LICENSE.txt": "/realtime-editor2/static/js/2.50ba4b5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18c1914d.js",
+    "static/css/2.7fa18b2e.chunk.css",
+    "static/js/2.50ba4b5f.chunk.js",
+    "static/css/main.75c9dae9.chunk.css",
+    "static/js/main.d020fc1a.chunk.js"
+  ]
+}
